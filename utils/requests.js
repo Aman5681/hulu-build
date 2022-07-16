@@ -1,4 +1,3 @@
-/* eslint-disable import/no-anonymous-default-export */
 const API_KEY = process.env.API_KEY;
 
 export default {
